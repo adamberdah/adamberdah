@@ -6,7 +6,7 @@ Head of Quantitative Structuring & Solutions at [FSP Advisors](https://fspadviso
 
 ---
 
-### Currently — [FSP Advisors](https://fspadvisors.com)
+### [FSP Advisors](https://fspadvisors.com)
 
 Leading the development of proprietary quantitative infrastructure and digital products:
 
